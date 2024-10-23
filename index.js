@@ -28,5 +28,5 @@ client.prependListener("interactionCreate",(interaction) =>{
 
 
 client.login(
-    "MTI5ODY4ODI2NjgxMTQ3Mzk0MQ.GF11JZ.oG-RFzil0AlI5gSBEurxDicBAN4RrUzZ_O23zU"
+    "token"
 );
