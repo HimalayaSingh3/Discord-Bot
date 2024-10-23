@@ -7,7 +7,7 @@ const commands = [
   },
 ];
 
-const rest = new REST({ version: '10' }).setToken("MTI5ODY4ODI2NjgxMTQ3Mzk0MQ.GF11JZ.oG-RFzil0AlI5gSBEurxDicBAN4RrUzZ_O23zU");
+const rest = new REST({ version: '10' }).setToken("token");
 
 async function registerCommands() {
   try {
